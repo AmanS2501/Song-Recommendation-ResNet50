@@ -1,4 +1,4 @@
-Song Recommendation System Based on Image Input
+**Song Recommendation System Based on Image Input**
 
 This project is a Song Recommendation System that suggests songs to users based on the landscape detected from the image input. The system leverages ResNet-50, a pretrained convolutional neural network model, to extract image features and map them to relevant music genres or moods.
 
